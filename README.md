@@ -1,4 +1,4 @@
-# Step-Mines
+# 踩地雷 遊戲 Minesweeper Game
 
     運用 C 語言實作踩地雷遊戲
     Making Snake Game by using C language
