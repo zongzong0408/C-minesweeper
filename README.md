@@ -1,7 +1,7 @@
 # 踩地雷 遊戲 Minesweeper Game
 
     運用 C 語言實作踩地雷遊戲
-    Making Snake Game by using C language
+    Making Minesweeper Game by using C language
 
 - 110-2 Academic Year project
 
@@ -9,7 +9,11 @@
 
 > 可參考以下連結說明。  
 
-- YouTube：
+- YouTube：..
+    - [運用 C 語言實作踩地雷遊戲 遊戲講解](https://youtu.be/R-RsgfPoEAA)
+    - [運用 C 語言實作「踩地雷」遊戲 遊戲專題講解（程式執行片段）](https://youtu.be/M7gFYe0urUU)
+    - [Making Minesweeper Game by using C language](https://youtu.be/88AM39bzVXA)
+  
 - Paper： 
 
 ## 配置要求 *Configuration Requirements*
