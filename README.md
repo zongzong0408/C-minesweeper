@@ -14,7 +14,7 @@
     - [運用 C 語言實作「踩地雷」遊戲 遊戲專題講解（程式執行片段）](https://youtu.be/M7gFYe0urUU)
     - [Making Minesweeper Game by using C language](https://youtu.be/88AM39bzVXA)
   
-- Paper：...
+- Paper：Nope
 
 ## 配置要求 *Configuration Requirements*
 
