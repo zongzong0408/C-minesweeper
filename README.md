@@ -17,7 +17,7 @@
 - Windows 10 64-bits
 - gcc (MinGW.org GCC-6.3.0-1) 6.3.0
 - DevC++
-- CodeBlocks 2019
+- CodeBlocks 17.12
 
 ## 參考 *References*  
 
